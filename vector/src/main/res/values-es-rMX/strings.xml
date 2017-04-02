@@ -225,7 +225,7 @@
     <string name="auth_reset_password_email_validation_message">Un correo fue enviado a %s. Una vez siguió el enlace, seleccione abajo.</string>
     <string name="auth_reset_password_error_unauthorized">Verificación de correo electronico falló: asegúrese que siguio el enlace.</string>
     <string name="auth_reset_password_error_not_found">Su correo electrónico no coincide con los de esta servidora.</string>
-    <string name="auth_reset_password_success_message">Su contraseña fue atualizada.\n\nHaz sido desconectado de todos tus dispositivos y las notificaciones están apagados. Para prender las notificaciones, entre su cuenta en cada dispositivo.</string>
+    <string name="auth_reset_password_success_message">Su contraseña fue atualizada.\n\nHa sido desconectado de todos tus dispositivos y las notificaciones están apagadas. Para prender las notificaciones, entre su cuenta en cada dispositivo.</string>
 
     <!-- Login Screen -->
     <string name="login_error_already_logged_in">Sesión activo</string>
