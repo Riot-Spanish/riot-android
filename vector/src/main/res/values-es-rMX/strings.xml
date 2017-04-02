@@ -213,7 +213,7 @@
     <string name="auth_email_validation_message">Consulte su correo electrónico para poder continuar con la inscripción</string>
     <string name="auth_threepid_warning_message">La inscripción con correo electrónico y número telefónico no está implementado hasta que exista el api. Solamente se tomara en cuenta el número telefónico.\n\nPodra añadir un correo electrónico en Configuraciones.</string>
     <string name="auth_email_check_name_in_use_message">"Verificando su nombre..</string>
-    <string name="auth_email_registration_resumes_message">"Espere mientras continue la inscripcíon..</string>
+    <string name="auth_email_registration_resumes_message">"Espere mientras continue la inscripción..</string>
     <string name="auth_recaptcha_message">Esta servidora quiere verificar que no seas robot</string>
     <string name="auth_username_in_use">Este nombre ya está reservado para otra persona</string>
     <string name="auth_home_server">Servidora:</string>
